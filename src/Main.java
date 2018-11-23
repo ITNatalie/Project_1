@@ -8,9 +8,8 @@ public class Main {
         //single line comment
 
         /*
-         multiline comment
-
-         */
+        multiline comment
+        */
 
 
         Cup myCup = new Cup(); //myCup is link to the first Cup in Cup class (we create a new object), it is blue
